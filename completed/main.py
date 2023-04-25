@@ -39,6 +39,6 @@ modifiedParagraph = action.modify_paragraph(repeating_pattern_paragraph)
 print(modifiedParagraph)
 
 current_date_time = datetime.now()
-file_name = f"sterogram - {current_date_time.strftime('%Y-%m-%d %H-%M-%S')}.txt"
+file_name = f"stereogram - {current_date_time.strftime('%Y-%m-%d %H-%M-%S')}.txt"
 with open(file_name, 'w') as file:
     file.write(modifiedParagraph)
