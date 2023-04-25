@@ -1,7 +1,7 @@
 # Ascii-Sterogram
 
-fully customizable ascii sterogram generater!
-juices in 'completed' folder and run main.py!
+fully customizable ascii sterogram generater. <br>
+juices in 'completed' folder and run main.py! <br>
 have fun!
 
 
